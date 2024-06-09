@@ -8,10 +8,9 @@ I'm a computer science graduate student at the Illinois Institute of Technology.
 - **Frameworks:** Flask, Flutter, Spring Boot, Django
 - **Databases:** PostgreSQL, MySQL, Oracle DB
 - **Tools:** Docker, Kubernetes, Git, CI/CD
+- 📫 How to reach me: Gmail Badge
 
 ## 🔗 Connect with me
-- Email: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
-- LinkedIn: [Poojith Reddy Annachedu](https://www.linkedin.com/in/poojith-reddy-annachedu/)
 
 <p align="left">
 
