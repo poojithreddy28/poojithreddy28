@@ -8,7 +8,8 @@ I'm a computer science graduate student at the Illinois Institute of Technology.
 - **Frameworks:** Flask, Flutter, Spring Boot, Django
 - **Databases:** PostgreSQL, MySQL, Oracle DB
 - **Tools:** Docker, Kubernetes, Git, CI/CD
-- 📫 How to reach me: Gmail Badge
+- 📫 How to reach me: G[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poojithannachedu.work@gmail.com)](poojithannachedu.work@gmail.com) 
+- ⚡ Fun fact: I love to go to the gym
 
 ## 🔗 Connect with me
 
