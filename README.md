@@ -11,8 +11,15 @@ I'm a computer science graduate student at the Illinois Institute of Technology.
 - How to reach me: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
 
 ## 🔗 Connect with me
+<<<<<<< Updated upstream
 
 <p align="centre">
+=======
+- Email: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
+- LinkedIn: [Poojith Reddy Annachedu](https://www.linkedin.com/in/poojith-reddy-annachedu/)
+
+<p align="left">
+>>>>>>> Stashed changes
 
 <a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arjyo74/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
