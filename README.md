@@ -10,7 +10,6 @@ I'm a computer science graduate student at the Illinois Institute of Technology.
 - **Tools:** Docker, Kubernetes, Git, CI/CD
 - How to reach me: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
 
-## 🔗 Connect with me
 
 
 
