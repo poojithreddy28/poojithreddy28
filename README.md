@@ -8,7 +8,7 @@
 
 I’m a computer science graduate student at the Illinois Institute of Technology, with a passion for software development, cloud technologies, and building scalable, reliable solutions. I enjoy working with modern frameworks, designing microservices, integrating advanced Gen AI tools, and implementing DevOps practices to streamline development workflows.
 
----
+
 
 ## 🛠️ Skills
 
@@ -43,18 +43,14 @@ I’m a computer science graduate student at the Illinois Institute of Technolog
 
 ## 📫 How to Reach Me
 - **Email**: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
-- **LinkedIn**: [Poojith Reddy Annachedu](https://www.linkedin.com/in/poojith-reddy-annachedu-154617184/)
-
-Feel free to reach out for collaboration, opportunities, or discussions on tech! 😊
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/poojith-reddy-annachedu-154617184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojith reddy" height="30" width="40" /></a>
 </p>
 
----
+Feel free to reach out for collaboration, opportunities, or discussions on tech! 😊
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
