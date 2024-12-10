@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h1 align="center">Hi 👋, I'm Poojith Reddy Annachedu</h1>
 <h3 align="center">A Computer Science Graduate Student Passionate About Building Scalable Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="poojithreddy" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> </p>
 
 ## 🚀 About Me
 
@@ -82,4 +82,4 @@ Feel free to reach out for collaboration, opportunities, or discussions on tech!
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br> 
----
+
