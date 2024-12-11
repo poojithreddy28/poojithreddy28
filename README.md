@@ -2,20 +2,18 @@
 <h3 align="center">A Computer Science Graduate Student Passionate About Building Scalable Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-
-## 🚀 About Me
+### 🚀 About Me
 
 I’m a computer science graduate student at the Illinois Institute of Technology, with a passion for software development, cloud technologies, and building scalable, reliable solutions. I enjoy working with modern frameworks, designing microservices, integrating advanced Gen AI tools, and implementing DevOps practices to streamline development workflows.
 
-
-
-## 🛠️ Skills
+### 🛠️ Skills
 
 ### **Programming Languages**
 - Java, Python, JavaScript, SQR, C, Dart
 
 ### **Web Technologies**
 - EJB, J2EE, JSP, Servlets, JDBC, JPA, HTML, jQuery, Ajax, CSS, XML, JSON, SQL, REST API, Microservices
+
 
 ### **Databases**
 - PostgreSQL, Oracle, MongoDB, MySQL, DynamoDB, DB2
@@ -38,7 +36,7 @@ I’m a computer science graduate student at the Illinois Institute of Technolog
 ### **Software Development and Practices**
 - Data Structures & Algorithms, System Design, Git, Agile, SDLC
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - **Email**: [poojithannachedu.work@gmail.com](mailto:poojithannachedu.work@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
