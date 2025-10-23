@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Poojith Reddy Annachedu</h1>
-<h3 align="center">A Computer Science Graduate Student Passionate About Building Scalable Solutions</h3>
+<h5 align="center">A Software Engineer passionate about building Distributed & scalable backend systems with clean architectures and performance-first services. My experience spans cloud‑native microservices, event-driven pipelines (Kafka), CI/CD, and containers. On the applied AI side, I design orchestration layers and agentic workflows (LangGraph, RAG, MCP) that automate complex tasks to improve developer and user outcomes.
+
+</h5>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-### 🚀 About Me
-
-I’m a computer science graduate student at the Illinois Institute of Technology, with a passion for software development, cloud technologies, and building scalable, reliable solutions. I enjoy working with modern frameworks, designing microservices, integrating advanced Gen AI tools, and implementing DevOps practices to streamline development workflows.
 
 ### 🛠️ Skills
 
